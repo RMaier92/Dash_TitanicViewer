@@ -35,5 +35,15 @@ python index.py
 and visit http://127.0.0.1:8050/.
 
 
-## Screenshot:
+
+## Demos:
+
 ![Demo screenshot](Screenshot.png)
+&nbsp;
+&nbsp;
+&nbsp;
+![Demo screenshot](./demos/demo1.gif)
+&nbsp;
+&nbsp;
+&nbsp;
+![Demo screenshot](./demos/demo2.gif)
