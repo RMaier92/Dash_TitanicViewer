@@ -36,4 +36,4 @@ and visit http://127.0.0.1:8050/.
 
 
 ## Screenshot:
-:::image type="content" source="Screenshot.png" alt-text="Demo screenshot":::
+![Demo screenshot](Screenshot.png)
